@@ -1,2 +1,3 @@
-# DSA
-Contains various solutions to problems and functions that I have written while learning about DSA
+# Leetcode
+Has the solutions that I have written to solve various coding problems.
+
