@@ -10,7 +10,7 @@ class Solution:
         itr = head
         
         while itr is not None:
-            if itr not in objs:
+            if itr not in objs.keys():
                 objs[itr] = 1
                 itr = itr.next
             elif itr in objs:
